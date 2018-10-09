@@ -1,0 +1,3 @@
+<?php
+//000000086400a:1:{i:0;a:13:{s:8:"shopName";s:27:"奥蒂斯特保健旗舰店";s:6:"shopId";i:10;s:7:"goodsId";i:49;s:9:"goodsName";s:66:"开源多商家系统 健长乐牌长乐胶囊 0.35g/粒*60粒/瓶";s:8:"goodsImg";s:38:"upload/shops/2016-10/57fc65567382d.jpg";s:7:"goodsSn";s:15:"147615879820754";s:10:"goodsStock";i:30000;s:7:"saleNum";i:0;s:9:"shopPrice";s:6:"400.00";s:11:"marketPrice";s:6:"500.00";s:6:"isSpec";i:0;s:11:"appraiseNum";i:0;s:8:"visitNum";i:2;}}
+?>

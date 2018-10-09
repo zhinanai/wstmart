@@ -1,0 +1,3 @@
+<?php
+//000000086400a:3:{i:0;a:7:{s:4:"adId";i:41;s:6:"adName";s:15:"1F右侧广告3";s:5:"adURL";s:0:"";s:6:"adFile";s:39:"upload/adspic/2016-10/57f8c9df2e4a8.jpg";s:13:"positionWidth";i:480;s:14:"positionHeight";i:310;s:6:"isOpen";b:0;}i:1;a:7:{s:4:"adId";i:40;s:6:"adName";s:15:"1F右侧广告2";s:5:"adURL";s:0:"";s:6:"adFile";s:39:"upload/adspic/2016-10/57f8c709293b4.jpg";s:13:"positionWidth";i:480;s:14:"positionHeight";i:310;s:6:"isOpen";b:0;}i:2;a:7:{s:4:"adId";i:30;s:6:"adName";s:19:"1楼右侧广告位";s:5:"adURL";s:0:"";s:6:"adFile";s:39:"upload/adspic/2016-10/57f8bbc7a1ed3.jpg";s:13:"positionWidth";i:480;s:14:"positionHeight";i:310;s:6:"isOpen";b:0;}}
+?>

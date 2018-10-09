@@ -1,0 +1,3 @@
+<?php
+//000000086400a:1:{i:0;a:13:{s:8:"shopName";s:34:"wstmart三只松鼠官方旗舰店";s:6:"shopId";i:8;s:7:"goodsId";i:32;s:9:"goodsName";s:86:"thinkphp开源商城 三只松鼠 红香妃葡萄干280g零食蜜饯新疆红葡萄干";s:8:"goodsImg";s:38:"upload/shops/2016-10/57fb4188bf6ad.jpg";s:7:"goodsSn";s:15:"147608399104898";s:10:"goodsStock";i:23323;s:7:"saleNum";i:0;s:9:"shopPrice";s:6:"232.00";s:11:"marketPrice";s:6:"343.00";s:6:"isSpec";i:0;s:11:"appraiseNum";i:0;s:8:"visitNum";i:2;}}
+?>

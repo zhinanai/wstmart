@@ -1,0 +1,3 @@
+<?php
+//000000086400a:1:{i:0;a:13:{s:8:"shopName";s:21:"海源水果蔬菜店";s:6:"shopId";i:3;s:7:"goodsId";i:10;s:9:"goodsName";s:92:"开源多用户商城 旭耕2016头茬有机荷兰青小黄瓜（当日采摘发货） 1.5kg";s:8:"goodsImg";s:38:"upload/shops/2016-10/57f9b3bc43e83.jpg";s:7:"goodsSn";s:15:"147598203283767";s:10:"goodsStock";i:2342;s:7:"saleNum";i:0;s:9:"shopPrice";s:7:"2234.00";s:11:"marketPrice";s:7:"2342.00";s:6:"isSpec";i:0;s:11:"appraiseNum";i:0;s:8:"visitNum";i:3;}}
+?>
